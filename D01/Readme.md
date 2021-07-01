@@ -26,6 +26,7 @@ Example 2:<br>
 &emsp; &emsp;Input: n = 1<br>
 &emsp; &emsp;Output: [0,1]<br>
 <br> 
+<br>
 Constraints:<br>
 &emsp; &emsp;•	1 <= n <= 16<br>
 </p>
